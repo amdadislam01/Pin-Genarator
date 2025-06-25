@@ -16,7 +16,7 @@ A secure random PIN generator with customizable length and copy functionality.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech Stack" width="200"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" alt="Tech Stack" width="200"/>
 </p>
 
 ## 🖥️ Demo Preview
