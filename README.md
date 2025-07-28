@@ -21,6 +21,6 @@ A secure random PIN generator with customizable length and copy functionality.
 
 ## 🖥️ Demo Preview
 
-<img src="https://i.imgur.com/sE8gnLy.png" width="1000" alt="PIN Generator Demo"/>
+<img src="https://ik.imagekit.io/yqnbhdlo4/Img/screenshot-2025-07-28-14-47-04.png?updatedAt=1753692782102" width="1000" alt="PIN Generator Demo"/>
 
 
